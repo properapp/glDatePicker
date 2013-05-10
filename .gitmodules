@@ -1,0 +1,3 @@
+[submodule "lib/glDatePicker"]
+	path = lib/glDatePicker
+	url = git://github.com/glad/glDatePicker.git
