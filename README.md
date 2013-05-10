@@ -1,6 +1,6 @@
-# glDatePicker for Meteor
+## glDatePicker for Meteor
 
-Meteor implementation of [glDatePicker](https://github.com/glad/glDatePicker title="glDatePicker on Github") for jQuery.
+Meteor implementation of [glDatePicker](https://github.com/glad/glDatePicker) for jQuery.
 
 ## Usage
 
@@ -10,8 +10,8 @@ Install via [Meteorite](https://github.com/oortcloud/meteorite title="Meteorite 
 
 Add to your template's rendered function:
 
-' 
+``` 
 Template.[Template Name].rendered = function() {
   $(".datepicker").glDatePicker(); 
 }
-'
+```
