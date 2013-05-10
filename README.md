@@ -6,7 +6,7 @@ Meteor implementation of [glDatePicker](https://github.com/glad/glDatePicker) fo
 
 Install via [Meteorite](https://github.com/oortcloud/meteorite): 
 
-` mrt add gldatepicker `
+` mrt add glDatePicker `
 
 Add to your template's rendered function:
 
