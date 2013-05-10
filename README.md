@@ -4,7 +4,7 @@ Meteor implementation of [glDatePicker](https://github.com/glad/glDatePicker) fo
 
 ## Usage
 
-Install via [Meteorite](https://github.com/oortcloud/meteorite title="Meteorite on Github"): 
+Install via [Meteorite](https://github.com/oortcloud/meteorite): 
 
 ` mrt add gldatepicker `
 
